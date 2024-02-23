@@ -1,0 +1,5 @@
+categoria;enunciado;resposta_1;correta_1;resposta_2;correta_2;resposta_3;correta_3;resposta_4;correta_4;resposta_5;correta_5
+HISTORIA;Quem foi a única pessoa na história a receber o Prêmio Nobel em áreas científicas diferentes?;Albert Einstein;false;Linus Pauling;false;Mahatma Gandhi;false;Marie Curie;true;Stephen Hawking;false
+OUTROS;No romance Dom Casmurro, de Machado de Assis, qual o nome do amigo que Bentinho imagina ser o pai de seu filho?;Escobar;true;Scolari;false;Espinosa;false;Esteves;false;Estevão;false
+PORTUGUES;Qual o grupo em que todas as palavras foram escritas corretamente?;Asterístico, beneficiente, meteorologia, entertido;false;Asterisco, beneficente, meteorologia, entretido;true;Asterisco, beneficente, metereologia, entretido;false;Asterístico, beneficiente, metereologia, entretido;false;Asterisco, beneficiente, metereologia, entretido;false
+BELEZA;Quais desses utensílios NÃO é relacionada a maquiagem?;Esponja;false;Curvex;false;Pincel;false;Oléo de banana;true;Lápis de olho;false

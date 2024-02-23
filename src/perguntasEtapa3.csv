@@ -1,0 +1,5 @@
+categoria;enunciado;resposta_1;correta_1;resposta_2;correta_2;resposta_3;correta_3;resposta_4;correta_4;resposta_5;correta_5
+OUTROS;Qual foi o artista que quis comprar a Marvel para protagonizar o primeiro filme do homem-aranha?;Frank Sinatra;false;David Bowie;false;Michael Jackson;true;Elvis Presley;false;Paul McCartney;false
+JOGO;Qual o jogo mais vendido de todos os tempos?;Grand Theft Auto V;false;Pokémon Red/Blue;false;Super Mario Bros;false;Minecraft;true;God of War;false
+HISTORIA; Qual foi a mulher que ficou conhecida como Condessa Sangrenta?;Elizabeth Báthory;true;Elizabeth II;false;Maria Anthonieta;false; Ana Bolena;false;Catarina de Médici;false
+OUTROS;Qual o nome do Guitarrista do Queen;Freddie Mercury;false;Slash;false;Steve Vai;false;Brian May;true;Tom Morello;false

@@ -1,0 +1,9 @@
+categoria;enunciado;resposta_1;correta_1;resposta_2;correta_2;resposta_3;correta_3;resposta_4;correta_4
+MATEMATICA;Qual é a fórmula para calcular a área de um círculo?;π * r;false;2 * π * r;false;2 * π * r²;false;π * r²;true
+OUTROS;Qual serialkiller foi conhecido por usar peças intimas femininas?;Jeffrey Dahmmer;false;BTK;true;Silvio Santos;false;Maniaco do parque;false
+PORTUGUES;Qual é o feminino de cavaleiro?;Cavaleira;false;Cavalheira;false;Amazona;true;Dama;false
+HISTORIA;O Tratado de Tordesilhas foi um acordo firmado entre:;Portugal e Itália;false;Espanha e Holanda;false;Portugal e Espanha;true;Portugal e Brasil;false
+JOGO;Qual o nome do irmão do Mário?;Wario;false;Yoshi;false;Sonic;false;Luigi;true
+BELEZA;Quando passar a base de unha?;Antes do esmalte;true;Depois do esmalte;false;Misturado com o esmalte;false;Sem esmate;false
+HISTORIA;Quando começou a ditadura no Brasil?;1957;false;1945;false;1964;true;1973;false
+
